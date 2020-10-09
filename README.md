@@ -27,13 +27,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MamunFailure's GitHub Stats" src="https://github-readme-stats.MamunFailure.vercel.app/api?username=MamunFailure&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://techdsf.com
 [instagram]: https://www.instagram.com/almamun_10
 [linkedin]: https://www.linkedin.com/in/javacoderalmamun
