@@ -6,9 +6,9 @@
 ## I'm a Student, Developer, and Problem Solver!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love problem solveing and play football / cricket
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love problem solveing and play football / cricket.
 
 ### Connect with me:
 
