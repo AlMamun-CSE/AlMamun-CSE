@@ -31,4 +31,4 @@
 [instagram]: https://www.instagram.com/almamun_10
 [linkedin]: https://www.linkedin.com/in/javacoderalmamun
 [facebook]: https://www.facebook.com/javaCoderAlMamun
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=AlMamun-CSE&show_icons=true&theme=radical">
