@@ -31,6 +31,4 @@
 [instagram]: https://www.instagram.com/almamun_10
 [linkedin]: https://www.linkedin.com/in/javacoderalmamun
 [facebook]: https://www.facebook.com/javaCoderAlMamun
-<img src="https://github-readme-stats.vercel.app/api?username=AlMamun-CSE&bg_color=0055FF&text_color=ffffff&title_color=ffffff&show_icons=true&icon_color=ffffff&include_all_commits=true&&count_private=true&">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamun-CSE&layout=demo&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
