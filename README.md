@@ -1,4 +1,4 @@
-### Hi there, I'm <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="javacoderalmamun"><a class="LI-simple-link" href='https://bd.linkedin.com/in/javacoderalmamun?trk=profile-badge'>Al Mamun</a></div> [TECHDSF][website] 👋
+### Hi there, I'm Al Mamun [TECHDSF][website] 👋
 
 
 ## I'm a Student, Developer, and Problem Solver!!
