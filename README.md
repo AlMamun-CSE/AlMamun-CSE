@@ -16,6 +16,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 <br />
 <br />
 
@@ -35,3 +36,6 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AlMamun-CSE&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="javacoderalmamun" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/javacoderalmamun?trk=profile-badge">Al Mamun</a></div>
+              
