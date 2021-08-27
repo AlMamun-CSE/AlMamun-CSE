@@ -1,41 +1,53 @@
-### Hi there, I'm Al Mamun [TECHDSF][website] 👋
-
+<h1 align="center">Hey there, I'm Al Mamun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlMamun-CSE&style=flat-square" />
+  <a target="_blank" href="https://github.com/AlMamun-CSE"><img alt="Follow me | AlMamun-CSE GitHub Profile" src="https://img.shields.io/github/followers/AlMamun-CSE?label=Follow&style=flat-square"></a>
+  <a href="https://api.whatsapp.com/send?phone=+8801737157517&text=Hello%20Oguzhan,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a target="_blank" href="mailto:almamun.coder@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/coderalmamun/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 ## I'm a Student, Developer, and Problem Solver!!
+<ul>
+  <li>- 🌱 I’m currently learning everything 🤣</li>
+  <li>- 👯 I’m looking to collaborate with other content creators.</li>
+  <li>- 🥅 2021 Goals: Contribute more to Open Source projects.</li>
+  <li>- ⚡ Fun fact: I love problem solveing and play football / cricket.</li>
+  <li>- 👨‍💻 Passionate Developer.</li>
+  <li>- 💬 Ask me about anything, I'll be happy to help.</li>
+  <li>- 📫 How to reach me: <a href="mailto:almamun.coder@gmail.com">info@coderalmamun.com</a></li>
+</ul>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love problem solveing and play football / cricket.
+<h3>🚀 Languages and Tools</h3>
 
-### Connect with me:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<br>
+![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)  
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-<br />
-<br />
-
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
-
-[website]: https://techdsf.com
-[instagram]: https://www.instagram.com/almamun_10
-[linkedin]: https://www.linkedin.com/in/javacoderalmamun
-[facebook]: https://www.facebook.com/javaCoderAlMamun
-<table>
+<h3>⚙️ GitHub Analytics</h3>
+<p>
+  <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamun-CSE&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AlMamun-CSE&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="javacoderalmamun" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/javacoderalmamun?trk=profile-badge">Al Mamun</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="javacoderalmamun" data-version="v1"><a class="badge-base__link LI-simple-link"</div>
+</p>
               
