@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Al Mamun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlMamun-CSE&style=flat-square" />
