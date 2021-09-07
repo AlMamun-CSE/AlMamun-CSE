@@ -1,4 +1,6 @@
 <h1 align="center">Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+![](https://github-profile-trophy.vercel.app/?username=AlMamun-CSE)
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlMamun-CSE&style=flat-square" />
@@ -8,7 +10,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/coderalmamun/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
-## I'm a Student, Developer, and Problem Solver!!
+## I'm a Student, Developer,Problem Solver and I make apps for your phone!
 <ul>
   <li>- 🌱 I’m currently learning everything 🤣</li>
   <li>- 👯 I’m looking to collaborate with other content creators.</li>
