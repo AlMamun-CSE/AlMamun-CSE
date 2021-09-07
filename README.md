@@ -10,9 +10,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/coderalmamun/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
-## I'm a Student, Developer,Problem Solver and I make apps for your phone!
+## I'm a Student, Developer and Problem Solver!
 <ul>
   <li>- 🌱 I’m currently learning everything 🤣</li>
+  <li>-⚙️I make apps for your phone!</li>
   <li>- 👯 I’m looking to collaborate with other content creators.</li>
   <li>- 🥅 2021 Goals: Contribute more to Open Source projects.</li>
   <li>- ⚡ Fun fact: I love problem solveing and play football / cricket.</li>
