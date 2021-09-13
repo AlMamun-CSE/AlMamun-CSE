@@ -13,7 +13,7 @@
 ## I'm a Student, Developer and Problem Solver!
 <ul>
   <li>- 🌱 I’m currently learning everything 🤣</li>
-  <li>-⚙️I make apps for your phone!</li>
+  <li>-⚙️ I make apps for your phone!</li>
   <li>- 👯 I’m looking to collaborate with other content creators.</li>
   <li>- 🥅 2021 Goals: Contribute more to Open Source projects.</li>
   <li>- ⚡ Fun fact: I love problem solveing and play football / cricket.</li>
