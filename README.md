@@ -12,10 +12,10 @@
 
 ## I'm a Student, Developer and Problem Solver!
 <ul>
-  <li>- 🌱 I’m currently learning everything 🤣</li>
+  <li>- 🌱 I’m currently learning Flutter Unit Testing </li>
   <li>-⚙️ I make apps for your phone!</li>
   <li>- 👯 I’m looking to collaborate with other content creators.</li>
-  <li>- 🥅 2021 Goals: Contribute more to Open Source projects.</li>
+  <li>- 🥅 2023 Goals: Contribute more to Open Source projects.</li>
   <li>- ⚡ Fun fact: I love problem solveing and play football / cricket.</li>
   <li>- 👨‍💻 Passionate Developer.</li>
   <li>- 💬 Ask me about anything, I'll be happy to help.</li>
@@ -30,17 +30,15 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <br>
-![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=white)
-<br>
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)  
+<br>
+  
 
 <h3>⚙️ GitHub Analytics</h3>
 <p>
