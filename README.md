@@ -1,4 +1,4 @@
-<h1 align="center">Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"></h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=AlMamun-CSE)
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
@@ -11,6 +11,7 @@
 </p>
 
 ## I'm a Student, Developer and Problem Solver!
+#### Talking about my personal stuff:
 <ul>
   <li>- 🌱 I’m currently learning Flutter Unit Testing </li>
   <li>-⚙️ I make apps for your phone!</li>
@@ -22,21 +23,20 @@
   <li>- 📫 How to reach me: <a href="mailto:almamun.coder@gmail.com">info@coderalmamun.com</a> or visit http://www.coderalmamun.xyz</li>
 </ul>
 
-<h3>🚀 Languages and Tools</h3>
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <br>
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
+
 <br>
   
 
