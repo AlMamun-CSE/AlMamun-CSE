@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlMamun-CSE&style=flat-square" />
   <a target="_blank" href="https://github.com/AlMamun-CSE"><img alt="Follow me | AlMamun-CSE GitHub Profile" src="https://img.shields.io/github/followers/AlMamun-CSE?label=Follow&style=flat-square"></a>
-  <a href="https://api.whatsapp.com/send?phone=+8801737157517&text=Hello%20OAl-Mamun,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+8801737157517&text=Hello%20Al-Mamun,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a target="_blank" href="mailto:almamun.coder@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/coderalmamun/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
