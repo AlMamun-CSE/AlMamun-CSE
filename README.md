@@ -16,7 +16,7 @@
   <li>- 🌱 I’m currently learning Flutter Unit Testing </li>
   <li>-⚙️ I make apps for your phone!</li>
   <li>- 👯 I’m looking to collaborate with other content creators.</li>
-  <li>- 🥅 2023 Goals: Contribute more to Open Source projects.</li>
+  <li>- 🥅 2025 Goals: Contribute more to Open Source projects.</li>
   <li>- ⚡ Fun fact: I love problem solveing and play football / cricket.</li>
   <li>- 👨‍💻 Passionate Developer.</li>
   <li>- 💬 Ask me about anything, I'll be happy to help.</li>
